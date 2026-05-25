@@ -12,3 +12,7 @@ A personal knowledge base for:
 
 Goal:
 Build deep engineering understanding through permanent notes and practical examples.
+
+Source: roadmap.sh
+Original roadmap: https://roadmap.sh/ai/roadmap-chat/system-design
+Used for personal learning and note organization.
